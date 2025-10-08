@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f7f9fc;
+  color: #222;
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+  background: linear-gradient(135deg, #0066ff, #00ccff);
+  color: white;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.project {
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  margin: 1rem 0;
+}
+
+form input, form textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+form button {
+  background: #0066ff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
