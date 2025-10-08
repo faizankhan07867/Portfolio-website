@@ -11,6 +11,6 @@ Roadmap for IT/CSE project ideas
 Both made using HTML, CSS, and JavaScript.
 
 Live Demo (GitHub Pages):  
-- Portfolio → https://faizankhan07867.github.io/Portfolio/  
+- Portfolio →   https://github.com/faizankhan07867/Portfolio-website
 - To-Do List → https://faizankhan07867.github.io/ToDoApp/
 
